@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm a BCA fresher (2026) passionate about building real-world web <br>applications and deriving insights from data.<br>I have hands-on experience in full-stack web development using HTML5, <br>CSS3, JavaScript, PHP, and MySQL — having built projects like an <br>Inventory Management System and Hostel Management System that <br>delivered measurable performance improvements.<br>🔧 Tech Stack: HTML5 | CSS3 | JavaScript | PHP | MySQL | Power BI | Git/GitHub<br>📌 What I bring:<br>- Role-based access control & secure authentication systems<br>- Responsive UI design with optimized database integration<br>- Data analytics and visualization using Power BI & Excel<br>🎯 Currently seeking Junior Web Developer or Data Analyst opportunities <br>where I can contribute to scalable, user-centric products.<br>📩 Open to connect and collaborate!
 
 
